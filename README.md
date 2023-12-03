@@ -41,3 +41,7 @@ Once you've set up the project with your API key, use the following steps to use
 2. Use the search bar to enter the location you're interested in.
 3. The map will center on your chosen location and display nearby restaurants as markers.
 4. Click on any marker to see more information about that restaurant.
+
+![image](https://github.com/AlanYuzhe/EC601_project2/assets/144563819/4a65b1c4-2c64-40af-899c-4e1089320f7d)
+![image](https://github.com/AlanYuzhe/EC601_project2/assets/144563819/a83082b4-e8a5-4b9a-ac52-74a610250c27)
+
